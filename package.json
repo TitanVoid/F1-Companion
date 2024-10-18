@@ -1,0 +1,14 @@
+{
+  "main": "./Front-end/index.js",
+  "author": "NerdyCoders",
+  "scripts": {
+    "start": "ow-electron ."
+  },
+  "dependencies": {
+    "@overwolf/ow-electron": "^31.4.0",
+    "@overwolf/ow-electron-builder": "^25.0.6"
+  },
+  "devDependencies": {
+    "electron": "^33.0.1"
+  }
+}
